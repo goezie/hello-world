@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+hello people,
+
+this is my first edit
